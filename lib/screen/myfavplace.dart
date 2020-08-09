@@ -69,7 +69,7 @@ class MyFavoritePlace extends StatelessWidget {
                   child: Container(
                 margin: EdgeInsets.all(15.0),
                 child: Text(
-                  "The cape สถานที่นั่งชิวสำหรับเพื่อนฝูงและครอบครัว แหลมจองถนน เขาชัยสน ร้านอาหารที่เป็นมากกว่าร้านอาหาร",
+                  "สถานที่นั่งชิวสำหรับเพื่อนฝูงและครอบครัว แหลมจองถนน เขาชัยสน ร้านอาหารที่เป็นมากกว่าร้านอาหาร",
                   style: TextStyle(
                     fontWeight: FontWeight.normal,
                     fontSize: 16.0,
